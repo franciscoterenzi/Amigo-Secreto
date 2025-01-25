@@ -11,7 +11,6 @@ function agregarAmigo() {
         return
     }
     amigos.push(nombre.value)
-    console.log(amigos)   
     verAmigo(amigos)
     document.querySelector('#amigo').value = '';
 }
