@@ -1,27 +1,33 @@
 <h1 align ='center' id ='#Título-e-imagen-de-portada'> Amigo Secreto Challenge</h1>
 
-##Índice
+El **Amigo Secreto** es un juego en el que introduces los nombres de los participantes y, al presionar el botón "Sortear", se selecciona aleatoriamente a uno de ellos como el "Amigo Secreto".
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
 
-*[Insignias](#insignias)
+### Funciones del programa 
+<ul>
+  <li>
+    Agregar amigo
+  </li>
+  <li>
+    Validar si en la entrada coloco nombre o no
+  </li>
+  <li>
+    Sortear amigo
+  </li>
+  <li>Resetear Listas (🔨En desarrollo🔨)</li>
+</ul>
 
-*[Índice](#índice)
+### Demo:
 
-*[Descripción del proyecto](#descripción-del-proyecto)
 
-*[Estado del proyecto](#Estado-del-proyecto)
+### Estado: 
+![Badge Terminado](https://img.shields.io/badge/Estado-Terminado-brightgreen)
+![Badge Actualizacion](https://img.shields.io/badge/%C3%9Altima-Actializaci%C3%B3n-brightgreen)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+### Tecnologías usadas:
 
-*[Acceso al proyecto](#acceso-proyecto)
+![Js](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
+### 
