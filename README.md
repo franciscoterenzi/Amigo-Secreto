@@ -1,4 +1,4 @@
-<h1 align ='center'> Amigo Secreto Challenge</h1>
+<h1 align ='center' id ='#Título-e-imagen-de-portada'> Amigo Secreto Challenge</h1>
 
 ##Índice
 
